@@ -1,3 +1,3 @@
 ph9 assignment 2
 
-live : https://oyalieul.github.io/G3-Architect-Mobile-Responsive-Webpage/
+live : https://oyalieul.github.io/Mobile-Responsive-Demo-Webpage-G3-Architect/
